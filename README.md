@@ -19,6 +19,10 @@ The goal is to transform raw listing data into actionable market insights for bu
 
 ## 📊 Key Analysis Performed
 
+## 📊 Sample Visualization
+
+[Locality Price Comparison](images/locality_price_comparison.png)
+
 ### ✅ Data Cleaning & Preprocessing
 - Standardized column names
 - Removed duplicates
@@ -60,9 +64,9 @@ gurgaon-real-estate-analysis/
 │
 ├── gurgaon_real_estate_analysis.ipynb
 ├── data/
-│ └── data_of_gurugram_real_estate.csv
+├── images/
+│   └── locality_price_comparison.png
 └── README.md
-
 ---
 
 ## 🚀 Future Improvements
