@@ -5,6 +5,10 @@ This project performs an in-depth Exploratory Data Analysis (EDA) of 14,223 resi
 
 The goal is to transform raw listing data into actionable market insights for buyers and investors.
 
+## 📊 Sample Visualization
+
+![Locality Price Comparison](Images/locality_price_comparison.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -18,10 +22,6 @@ The goal is to transform raw listing data into actionable market insights for bu
 ---
 
 ## 📊 Key Analysis Performed
-
-## 📊 Sample Visualization
-
-[Locality Price Comparison](images/locality_price_comparison.png)
 
 ### ✅ Data Cleaning & Preprocessing
 - Standardized column names
